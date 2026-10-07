@@ -1,12 +1,15 @@
-## Domain
-People that work from home everyday under 35 ( young adults ) 
 
-## Questions
+## Domain
+
+Social wellbeing and work-life boundaries of young adults full-remote workers (under 35)
+
+## Questions - Immediate user
 
 1. Il Contesto e la Routine
     - “Raccontami come si è svolta la tua giornata lavorativa ieri, dal momento in cui ti sei svegliato a quando sei andato a dormire."
-    * "Quali sono i tuoi rituali per iniziare e per terminare la giornata lavorativa?"
-    * "C'è stato un momento, nell'ultima settimana, in cui la tua routine è saltata? Cosa è successo e come hai reagito?"
+
+    - "Quali sono i tuoi rituali per iniziare e per terminare la giornata lavorativa?"
+    - "C'è stato un momento, nell'ultima settimana, in cui la tua routine è saltata? Cosa è successo e come hai reagito?"
 
 2. Lo Spazio e l'Ergonomia
     - “Se potessi girare la webcam adesso, cosa mi mostreresti del tuo spazio di lavoro? Parlami di come lo hai organizzato."
@@ -18,17 +21,17 @@ People that work from home everyday under 35 ( young adults )
     * "Dove consumi di solito i tuoi pasti durante la settimana? Come gestisci le pause?"
 
 4. Relazioni, Isolamento e Comunicazione
-    * "Raccontami dell'ultima volta in cui hai avuto bisogno dell'aiuto rapido di un collega. Come hai gestito la situazione a distanza?"
-    * "C'è stato un momento nel mese scorso in cui ti sei sentito isolato o tagliato fuori dalle dinamiche aziendali/lavorative? Cosa hai provato?"
-    * "Come sostituisci le interazioni informali che normalmente avverrebbero alla macchinetta del caffè?"
+    - "Raccontami dell'ultima volta in cui hai avuto bisogno dell'aiuto rapido di un collega. Come hai gestito la situazione a distanza?"
+    - "C'è stato un momento nel mese scorso in cui ti sei sentito isolato o tagliato fuori dalle dinamiche aziendali/lavorative? Cosa hai provato?"
+    - "Come sostituisci le interazioni informali che normalmente avverrebbero alla macchinetta del caffè?"
+
 5. Sfide e "Workarounds" (Soluzioni Improvvisate)
-* "Qual è stata la sfida o la frustrazione più grande che hai affrontato nell'ultimo mese lavorando da casa?"
-* "Quando hai incontrato questo problema, cosa hai fatto per cercare di risolverlo sul momento?"
-* "Qual è l'attività lavorativa che, se fatta in presenza, impiegherebbe 5 minuti, ma che da casa ti richiede molta più energia o tempo?"
 
-6. Extra
-     - Quante volte a settimana esci ? Quante di queste uscite sono per svago e quante per svolgere commissioni. 
+- "Qual è stata la sfida o la frustrazione più grande che hai affrontato nell'ultimo mese lavorando da casa?"
+- "Quando hai incontrato questo problema, cosa hai fatto per cercare di risolverlo sul momento?"
+- "Qual è l'attività lavorativa che, se fatta in presenza, impiegherebbe 5 minuti, ma che da casa ti richiede molta più energia o tempo?"
 
-
+1. Extra
+     - Quante volte a settimana esci ? Quante di queste uscite sono per svago e quante per svolgere commissioni.
 
 Lead user: HR esperto in smart working, psicologo esperto nel dominio, 
