@@ -1,7 +1,23 @@
 
-## Domain
+# Domain
 
 Social wellbeing and work-life boundaries of young adults full-remote workers (under 35)
+
+## User types
+
+**Immediate user:** Smart workers under 35 full time.
+
+**Domain Expert:**
+* Work psychologist
+* Coworking owner ( if knows something about remote worker needs )
+
+**Lead/Extreme user:**
+
+* Smart workers under 35 full-time that work remotely for more than 3 years and/or work in different time zones
+
+* Smart workers over 40 who worked from home in the 35-year period.
+
+* Worker under 35 that can work remotely but always goes to the office
 
 ## Questions - Immediate user
 
