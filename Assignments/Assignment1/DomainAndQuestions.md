@@ -21,26 +21,45 @@ Social wellbeing and work-life boundaries of young adults full-remote workers (u
 ## Questions - Immediate user
 
 ### 1. Background, Context and Routine
-1. "Da quanto tempo lavori completamente da remoto? Raccontami brevemente come è organizzato il tuo lavoro."
-2. "Raccontami come si è svolta la tua giornata lavorativa di ieri, dal momento in cui ti sei svegliato fino alla fine della giornata."
-3. "Come inizi normalmente una giornata di lavoro e come capisci che la giornata lavorativa è terminata?"
-4. "Raccontami di una situazione recente in cui la tua normale routine di lavoro è saltata. Cosa è successo e come hai gestito la situazione?"
-5. "Ripensa all’ultima volta in cui hai controllato o risposto a qualcosa di lavoro fuori dal tuo normale orario. Cosa ti ha portato a farlo?"
+1. "Da quanto tempo lavori completamente da remoto?"
+2. "Raccontami come si è svolta la tua ultima giornata lavorativa, dal momento in cui ti sei svegliato fino a quando hai smesso di lavorare."
+    2.1. : pause, pranzo, con chi hai parlato
+3. "Descrivimi cosa fai quando inizi e quando chiudi la tua giornata di lavoro."
+4. "Mi hai raccontato come raccontato come la tua ultima giornata di lavoro si è svolta. Ti è capitato di recente che una giornata andasse in modo diverso da cosi? Raccontami 
+    4.1.: se non gli è mai capitato -> "Come ti fa sentire avere una ""routine stabile"" ? oppure mi hai detto che hai tutte le giornate tutte uguali, come ti fanno sentire?"
+    4.2. : se una persona non ha orari fissi non si parla di routine. bisogna riprendere le sue parole e dire:" mi hai detto che ogni tua giornata è diversa. Raccontami l'ultimo giorno che ricordi bene"
+5. "Ti capita di occuparti di lavoro fuori dal tuo orario? Raccontami l'ultima volta."
 
 ### 2. Work-Life Boundaries
 6. "Come gestisci attualmente la separazione tra tempo di lavoro e tempo personale?"
-7. "Ci sono strategie, regole o abitudini che hai introdotto nel tempo per mantenere questa separazione? Come sono nate?"
-8. "Raccontami dell’ultima volta in cui hai fatto fatica a smettere di lavorare a fine giornata. Cosa stava succedendo?"
-9. "Se vivi con altre persone, come gestite i momenti in cui stai lavorando e non vuoi essere interrotto?"
+    6.1. "Ci sono strategie, regole o abitudini che hai introdotto nel tempo per mantenere questa separazione? Come sono nate?"
+    6.2. "Quando non funzionano/funziona?"
+7. "Ti è mai succcesso di fare fatica a rispettare l'orario di lavoro previsto?.
+    7.1: Cosa stava succedendo?"
+    7.2: Come riesci a rispettare la fine dell'orario lavorativo?
+8. "mentre lavori chi c'è intorno a te? 
+    8.1: "Ti è mai capitato di essere interrrotto? Raccontami."
+        8.1.1: "Come gestisci la presenza di altre persone mentre lavori?" 
+    8.2: se non ce nessuno, ma vive con altre persone --> "Come sei riuscito a ritagliarti uno spazio solo per te?"
 
 ### 3. Breaks and Everyday Wellbeing
-10. "Come si inseriscono le pause durante una tua normale giornata lavorativa? Raccontami cosa hai fatto ieri."
-11. "Dove hai pranzato durante la tua ultima giornata lavorativa e cosa hai fatto durante quella pausa?"
-12. "Quando durante la giornata senti di avere bisogno di una pausa, come te ne accorgi e cosa fai di solito?"
+9. "Ieri c'è stato un momento in cui hai sentito di aver bisogno di una pausa, oltre le pausa pranzo?"
+    9.1 se dice si, ma non l ha fatta --> " Quali sono stati gli impedimenti che non ti hanno permesso di fare pausa?"
+    9.2 se dice si e l ha fatta --> "Come te ne accorgi e cosa fai di solito?"
+    9.3 se dice no --> " Come riesci a reggere l' orario lavorativo senza interruzioni? "
+
 
 ### 4. Social Wellbeing and Relationships
-13. "Come descriveresti la tua vita sociale da quando lavori completamente da remoto?"
-14. "Raccontami dell’ultima volta in cui hai avuto bisogno dell’aiuto rapido di un collega. Come è andata?"
+10. "Come descriveresti la tua vita sociale da quando lavori completamente da remoto?"
+11. "Dimmi tre cose che la tua vita sociale ha guadagnato con il remoto e tre che ha perso."
+12. "Lavori da solo o in team?"
+    12.1. se lavori da solo-> "con chi ti sei confrontato durante la giornata, se ti capita?"
+    12.2. se è in team --> "Ti capita di parlare con i tuoi colleghi di cose che non riguardano il lavoro?"
+        12.2.1. si--> "raccontami l'ultima volta. Com'è nata? Dove eravate (chat, call, di persone)?"
+        12.2.2. no --> "come mai secondo te?" e poi "è sempre stato cosi?"
+
+##### fine 
+
 15. "Quali occasioni hai normalmente per parlare con i colleghi di qualcosa che non riguarda direttamente il lavoro?"
 16. "Raccontami di una situazione recente in cui ti sei sentito particolarmente coinvolto o, al contrario, distante dal tuo team."
 17. "Ripensando all’ultima settimana lavorativa, con quali persone hai avuto interazioni al di fuori del lavoro?"
