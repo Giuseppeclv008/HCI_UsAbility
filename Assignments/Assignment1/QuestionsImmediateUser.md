@@ -1,29 +1,8 @@
+# Questions 
 
-# Domain
+## Immediate User: Smart workers under 35 full-time.
 
-Social wellbeing and work-life boundaries of young adults full-remote workers (under 35)
-
-## User Types
-
-### Immediate User
-- Smart workers under 35 full-time.
-
-### Domain Expert
-- Work psychologist.
-- Coworking owner (if knowledgeable about remote workers' needs).
-
-### Lead/Extreme User
-- Smart workers under 35 who:
-  - Have been working fully remotely for more than 3 years.
-  - Work across different time zones.
-- Smart workers over 40 who worked from home before turning 35.
-- Workers under 35 who have the option to work remotely but always choose to go to the office.
-
----
-
-# Questions – Immediate User
-
-## 1. Background, Context and Routine
+### 1. Background, Context and Routine
 
 1. **"Da quanto tempo lavori completamente da remoto?"**
 
@@ -46,7 +25,7 @@ Social wellbeing and work-life boundaries of young adults full-remote workers (u
 4. **"Ti capita di occuparti di lavoro fuori dal tuo orario? Raccontami l'ultima volta e cosa ti ha spinto a farlo."**
    - **4.1.** "Quanto ha impattato sul resto della giornata?"
 
-## 2. Work-Life Boundaries
+### 2. Work-Life Boundaries
 
 5. **"Come gestisci attualmente la separazione tra tempo di lavoro e tempo personale?"**
    - **5.1.** "Ci sono strategie, regole o abitudini che hai introdotto nel tempo per mantenere questa separazione? Come sono nate?"
@@ -58,7 +37,7 @@ Social wellbeing and work-life boundaries of young adults full-remote workers (u
    - **6.2.** Se non c'è nessuno, ma vive con altre persone:
      - "Come sei riuscito a ritagliarti uno spazio solo per te?"
 
-## 3. Social Wellbeing and Relationships
+### 3. Social Wellbeing and Relationships
 
 7. **"Ripensando a questo periodo in full-remote, c'è un momento in cui hai pensato 'non tornerei mai indietro'? E uno in cui hai sentito particolarmente il peso di questa modalità?"**
 
@@ -80,7 +59,7 @@ Social wellbeing and work-life boundaries of young adults full-remote workers (u
 
 
 
-## 4. Workspace and Environment
+### 4. Workspace and Environment
 
 12. **"Descrivimi il posto in cui lavori normalmente. Come hai deciso di organizzarlo in questo modo?"**
     - **12.1.** "Hai modificato nel tempo qualcosa nel tuo spazio o nel tuo setup per lavorare meglio? Raccontami cosa ti ha portato a farlo."
@@ -88,7 +67,7 @@ Social wellbeing and work-life boundaries of young adults full-remote workers (u
 
 ### Fine (da completare)
 
-## 5. Challenges and Workarounds
+### 5. Challenges and Workarounds
 
 22. **"C'è qualcosa che oggi fai in modo diverso rispetto a quando hai iniziato a lavorare da remoto?"**
 
@@ -96,13 +75,13 @@ Social wellbeing and work-life boundaries of young adults full-remote workers (u
 
 24. **"Raccontami di una situazione lavorativa che a distanza ti è risultata più complicata di quanto sarebbe stata in presenza."**
 
-## 6. Life Outside Work
+### 6. Life Outside Work
 
 27. **"C'è qualche aspetto della tua esperienza di lavoro completamente da remoto che ritieni importante e di cui non abbiamo parlato?"**
 
 ---
 
-## Additional Lead User / Domain Expert Candidates
+### Additional Lead User / Domain Expert Candidates
 
 - HR esperto in smart working.
 - Psicologo esperto nel dominio.
