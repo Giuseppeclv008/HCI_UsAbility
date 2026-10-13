@@ -1,6 +1,7 @@
-# Questions 
 
-## Immediate User: Smart workers under 35 full-time.
+# Questions
+
+## Immediate User: Smart workers under 35 full-time
 
 ### 1. Background, Context and Routine
 
@@ -17,7 +18,7 @@
 
 3. **"Mi hai raccontato come si è svolta la tua ultima giornata di lavoro. Ti è capitato di recente che una giornata andasse in modo diverso da così? Raccontami."**
    - **3.1.** Se non gli è mai capitato:
-     - "Come ti fa sentire avere una routine stabile?"
+     - "Che effetto ha questa routine sul modo in cui organizzi il resto della giornata?"
      - Oppure: "Mi hai detto che hai tutte le giornate uguali, come ti fa sentire?"
    - **3.2.** Se una persona non ha orari fissi, non si parla di routine. Bisogna riprendere le sue parole:
      - "Mi hai detto che ogni tua giornata è diversa. Raccontami l'ultimo giorno che ricordi bene."
@@ -39,45 +40,49 @@
 
 ### 3. Social Wellbeing and Relationships
 
-7. **"Ripensando a questo periodo in full-remote, c'è un momento in cui hai pensato 'non tornerei mai indietro'? E uno in cui hai sentito particolarmente il peso di questa modalità?"**
+7. **"Ripensando a questo periodo in full remote, c’è stato un momento in cui hai apprezzato particolarmente questa modalità? E uno in cui l’hai trovata particolarmente difficile?"**
 
 8. **"Hai avuto esperienze lavorative non in remoto?"**
    - **8.1.** Se sì:
      - "Confrontando questo periodo con le tue esperienze in presenza, che differenze noti nel modo in cui gestisci le tue relazioni fuori dal lavoro?"
-   - **8.2.** Se no: "Non avendo un termine di paragone in presenza, in che modo senti che iniziare direttamente da remoto ha influenzato la costruzione della tua rete relazionale?"
-   
-25. **"Ripensando all'ultima settimana lavorativa, in quali occasioni sei uscito di casa?"**
-    - **25.1. Follow-up:** "Quali di queste uscite erano legate al lavoro, a commissioni o al tempo libero?"
+   - **8.2.** Se no:
+     - "Non avendo un termine di paragone in presenza, come si sono sviluppate le tue relazioni sociali e professionali da quando hai iniziato a lavorare da remoto?"
 
-26. **"Ci sono giornate in cui non esci affatto di casa? Raccontami l'ultima volta che è successo."**
+9. **"Ripensando all'ultima settimana lavorativa, in quali occasioni sei uscito di casa?"**
+   - **9.1. Follow-up:** "Quali di queste uscite erano legate al lavoro, a commissioni o al tempo libero?"
 
-9. **"Ripensando all'ultima settimana lavorativa, quali occasioni hai avuto di trascorrere del tempo con altre persone al di fuori del lavoro?"**
+10. **"Ci sono giornate in cui non esci affatto di casa? Raccontami l'ultima volta che è successo."**
 
-11. **"Mi racconti come si sono sviluppati i rapporti con i tuoi colleghi da quando avete iniziato a lavorare insieme?"**
-    - **11.1.** "Ti è capitato di instaurare con qualche collega un rapporto che va oltre le attività lavorative? Mi racconti come è nato?"
-    - **11.2.** "Che ruolo ha avuto, nella tua esperienza, il fatto di lavorare a distanza nello sviluppo di questi rapporti?"
+11. **"Ripensando all'ultima settimana lavorativa, quali occasioni hai avuto di trascorrere del tempo con altre persone al di fuori del lavoro?"**
 
-
+12. **"Mi racconti come si sono sviluppati i rapporti con i tuoi colleghi da quando avete iniziato a lavorare insieme?"**
+    - **12.1.** "Ti è capitato di instaurare con qualche collega un rapporto che va oltre le attività lavorative? Mi racconti come è nato?"
+    - **12.2.** "Che ruolo ha avuto, nella tua esperienza, il fatto di lavorare a distanza nello sviluppo di questi rapporti?"
 
 ### 4. Workspace and Environment
 
-12. **"Descrivimi il posto in cui lavori normalmente. Come hai deciso di organizzarlo in questo modo?"**
-    - **12.1.** "Hai modificato nel tempo qualcosa nel tuo spazio o nel tuo setup per lavorare meglio? Raccontami cosa ti ha portato a farlo."
-    - **12.2.** "C'è stato un momento recente in cui il tuo spazio di lavoro ti ha particolarmente aiutato o ostacolato?"
-
-### Fine (da completare)
+13. **"Descrivimi il posto in cui lavori normalmente. Come hai deciso di organizzarlo in questo modo?"**
+    - **13.1.** "Hai modificato nel tempo qualcosa nel tuo spazio o nel tuo setup per lavorare meglio? Raccontami cosa ti ha portato a farlo."
+    - **13.2.** "C'è stato un momento recente in cui il tuo spazio di lavoro ti ha particolarmente aiutato o ostacolato? Cosa hai fatto per adattarti?"
 
 ### 5. Challenges and Workarounds
 
-22. **"C'è qualcosa che oggi fai in modo diverso rispetto a quando hai iniziato a lavorare da remoto?"**
+14. **"Ripesando a quando hai iniziato a lavorare da remoto, com'era organizzata la tua giornata rispetto a oggi? Mi racconti se nel tempo è cambiato qualcosa?"**
+    - **14.1.** Se ha cambiato qualcosa:
+      - **14.1.1.** "Cosa ti ha portato ad attuare questi cambiamenti?"
+      - **14.1.2.** "Dimmi quando ti sei reso conto di voler fare le cose diversamente."
+    - **14.2.** Se non ha cambiato niente:
+      - **14.2.1.** "Ci sono momenti in cui hai pensato di voler cambiare qualcosa?"
 
-23. **"Hai sviluppato qualche trucco, regola personale o soluzione improvvisata che ti aiuta nella vita lavorativa quotidiana?"**
+15. **"Ripensando alle tue esperienze di lavoro da remoto, ti viene in mente una situazione lavorativa che hai trovato particolarmente difficile da gestire? Mi racconti com'è andata."**
+    - **15.1.** "Che cosa ha reso quella situazione difficile da gestire?"
+    - **15.2.** "Il fatto di lavorare a distanza ha avuto qualche ruolo in questa situazione? In che modo?"
 
-24. **"Raccontami di una situazione lavorativa che a distanza ti è risultata più complicata di quanto sarebbe stata in presenza."**
+16. **"C’è qualcosa del lavoro remoto che all’inizio non pensavi sarebbe stato importante, ma che hai scoperto esserlo con il tempo?"**
 
 ### 6. Life Outside Work
 
-27. **"C'è qualche aspetto della tua esperienza di lavoro completamente da remoto che ritieni importante e di cui non abbiamo parlato?"**
+17. **"C'è qualche aspetto della tua esperienza di lavoro completamente da remoto che ritieni importante e di cui non abbiamo parlato?"**
 
 ---
 
