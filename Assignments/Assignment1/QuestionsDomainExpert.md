@@ -7,8 +7,10 @@
   - **1.1.** "Qual è il profilo tipico del lavoratore da remoto che si rivolge a te (o che osservi nelle aziende con cui collabori)?"
 
 ## 2. Macro-Trend e Impatto sulla Popolazione Under 35
-- "Concentrandoci sui giovani under 35 che lavorano in full-remote, quali sono i temi, i disagi o le necessità che emergono più frequentemente durante i tuoi colloqui?"
-  - **2.1.** "Mi racconteresti, mantenendo ovviamente l'anonimato, un caso recente o particolarmente rappresentativo che hai affrontato riguardo a queste tematiche?"
+- "Hai avuto modo di confrontarti con giovani under 35 che lavorano completamente da remoto? Se si quali aspetti della loro esperienza quotidiana emergono più frequentemente durante i colloqui?"
+  - **2.1** "In che modo si manifesta concretamente in questo aspetto nella loro quotidianità?"
+  - **2.2** "Quali strategie raccontano per gestire queste situazioni?"
+  - **2.3.** "Mi racconteresti, mantenendo ovviamente l'anonimato, un caso recente o particolarmente rappresentativo che hai affrontato riguardo a queste tematiche?"
 - "Molti giovani iniziano la loro carriera direttamente da remoto. Quali differenze noti, a livello psicologico e di sviluppo professionale, tra questi 'nativi del remote working' e chi invece ha vissuto prima l'esperienza in presenza?"
 
 ## 3. Work-Life Boundaries e Carico Cognitivo
