@@ -25,10 +25,10 @@
 
 4. **"Ti capita di occuparti di lavoro fuori dal tuo orario? Raccontami l'ultima volta e cosa ti ha spinto a farlo."**
    - **4.1.** "Il fatto di aver lavorato fuori orario ha avuto un impatto sul resto della giornata o sulla giornata successiva?"
-   - 4.1.1. Se sì:
-   "Su una scala da 1 a 5, dove 1 indica un impatto minimo e 5 un impatto molto forte, quanto ha influito sul resto della giornata?"
-   - **4.1.2.** "E quanto ha influito sulla giornata successiva, sempre su una scala da 1 a 5?"
-   - **4.1.3.** "Come mai hai scelto questi valori?"
+      - **4.1.1**. Se sì:
+      "Su una scala da 1 a 5, dove 1 indica un impatto minimo e 5 un impatto molto forte, quanto ha influito sul resto della giornata?"
+      - **4.1.2.** "E quanto ha influito sulla giornata successiva, sempre su una scala da 1 a 5?"
+      - **4.1.3.** "Come mai hai scelto questi valori?"
 
 ### 2. Work-Life Boundaries
 
