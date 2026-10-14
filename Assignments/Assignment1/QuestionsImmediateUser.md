@@ -8,9 +8,9 @@
 1. **"Da quanto tempo lavori completamente da remoto?"**
 
 2. **"Raccontami come si è svolta la tua ultima giornata lavorativa, dal momento in cui ti sei svegliato fino a quando hai smesso di lavorare."**
-   - **2.1.** "Hai sentito il bisogno di una pausa, oltre la pausa pranzo?"
+   - **2.1.** "Durante la giornata hai sentito il bisogno di fare una pausa oltre a quella pranzo, oppure non ne hai sentito il bisogno?"
      - **2.1.1.** Se dice sì, ma non l'ha fatta:
-       - "Quali sono stati gli impedimenti che non ti hanno permesso di fare pausa?"
+       - "Quali sono stati i motivi che non ti hanno permesso di fare pausa?"
      - **2.1.2.** Se dice sì e l'ha fatta:
        - "Come te ne accorgi e cosa fai di solito?"
      - **2.1.3.** Se dice no:
@@ -24,13 +24,17 @@
      - "Mi hai detto che ogni tua giornata è diversa. Raccontami l'ultimo giorno che ricordi bene."
 
 4. **"Ti capita di occuparti di lavoro fuori dal tuo orario? Raccontami l'ultima volta e cosa ti ha spinto a farlo."**
-   - **4.1.** "Quanto ha impattato sul resto della giornata?"
+   - **4.1.** "Il fatto di aver lavorato fuori orario ha avuto un impatto sul resto della giornata o sulla giornata successiva?"
+   - 4.1.1. Se sì:
+   "Su una scala da 1 a 5, dove 1 indica un impatto minimo e 5 un impatto molto forte, quanto ha influito sul resto della giornata?"
+   - **4.1.2.** "E quanto ha influito sulla giornata successiva, sempre su una scala da 1 a 5?"
+   - **4.1.3.** "Come mai hai scelto questi valori?"
 
 ### 2. Work-Life Boundaries
 
 5. **"Come gestisci attualmente la separazione tra tempo di lavoro e tempo personale?"**
    - **5.1.** "Ci sono strategie, regole o abitudini che hai introdotto nel tempo per mantenere questa separazione? Come sono nate?"
-   - **5.2.** "Quando funzionano e quando non funzionano?"
+   - **5.2.** "Dimmi 3 casi in cui hanno funzionato e 3 casi in cui non hanno funzionato."
 
 6. **"Mentre lavori chi c'è intorno a te?"**
    - **6.1.** "Ti è mai capitato di essere interrotto? Raccontami."
