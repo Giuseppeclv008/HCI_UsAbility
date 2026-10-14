@@ -6,18 +6,20 @@ Social wellbeing and work-life boundaries of young adults full-remote workers (u
 ## User Types
 
 ### Immediate User
-- Smart workers under 35 full-time.
+- Remote workers under 35 full-time.
 
 ### Domain Expert
 - Work psychologist.
 - Coworking owner (if knowledgeable about remote workers' needs).
+- HR expert in remote working.
+
 
 ### Lead/Extreme User
-- Smart workers under 35 who:
+- Remote workers under 35 who:
   - Have been working fully remotely for more than 3 years.
   - Work across different time zones.
-- Smart workers over 40 who worked from home before turning 35.
-- Workers under 35 who have the option to work remotely but always choose to go to the office.
+- Remote workers over 40 who started working from home before turning 35.
+- Workers under 35 who would have the option to work remotely but still choose to go to the office.
 
 ---
 
@@ -80,28 +82,54 @@ Social wellbeing and work-life boundaries of young adults full-remote workers (u
     - **12.1.** "Hai modificato nel tempo qualcosa nel tuo spazio o nel tuo setup per lavorare meglio? Raccontami cosa ti ha portato a farlo."
     - **12.2.** "Ripensando alle ultime giornate lavorative, c'è stata una situazione in cui le caratteristiche del tuo spazio di lavoro hanno avuto un ruolo nel modo in cui hai svolto le tue attività lavorative?"
 
-### Fine (da completare)
-
 ## 5. Challenges and Workarounds
 
-22. **"C'è qualcosa che oggi fai in modo diverso rispetto a quando hai iniziato a lavorare da remoto?"**
+13. **"C'è qualcosa che oggi fai in modo diverso rispetto a quando hai iniziato a lavorare da remoto?"**
 
-23. **"Hai sviluppato qualche trucco, regola personale o soluzione improvvisata che ti aiuta nella vita lavorativa quotidiana?"**
+14. **"Hai sviluppato qualche strategia che ti aiuta nella vita lavorativa quotidiana?"**
 
-24. **"Raccontami di una situazione lavorativa che a distanza ti è risultata più complicata di quanto sarebbe stata in presenza."**
+15. **"C'è stata una situazione lavorativa che a distanza ti è risultata più complicata di quanto sarebbe stata in presenza?"**
+  - **15.1.** Se sì: "Come l'hai gestita?."
+  - **15.2.** Se no: "Quali elementi ti aiutano a prevenire questa situazione?."
+
 
 ## 6. Life Outside Work
 
-25. **"Ripensando all'ultima settimana lavorativa, in quali occasioni sei uscito di casa?"**
-    - **25.1. Follow-up:** "Quali di queste uscite erano legate al lavoro, a commissioni o al tempo libero?"
+16. **"Ripensando all'ultima settimana lavorativa, in quali occasioni sei uscito di casa?"**
+    - **25.1** "Quali di queste uscite erano legate al lavoro o a commissioni, e quali al tempo libero?"
 
-26. **"Ci sono giornate in cui non esci affatto di casa? Raccontami l'ultima volta che è successo."**
+17. **"Ci sono giornate in cui non esci affatto di casa?"**
+  - **17.1.** Se sì: "Raccontami l'ultima volta che è successo e cosa ti ha spinto a farlo."
+  - **17.2.** Se no: "Quali elementi ti aiutano a prevenire questa situazione?."
 
-27. **"C'è qualche aspetto della tua esperienza di lavoro completamente da remoto che ritieni importante e di cui non abbiamo parlato?"**
+18. **"C'è qualche aspetto della tua esperienza di lavoro completamente da remoto che ritieni importante e di cui non abbiamo parlato?"**
 
 ---
 
-## Additional Lead User / Domain Expert Candidates
+# Questions – Extreme User: over 40 who started working from home before turning 35
 
-- HR esperto in smart working.
-- Psicologo esperto nel dominio.
+**"Quanto è cambiato il tuo modo di organizzare la giornata nell'arco del tempo?"**
+
+**"Quanto sono cambiate le tue energie fisiche e mentali a fine giornata rispetto ai primi anni di lavoro da remoto?"**
+
+**"Pensa a una persona con cui eri in contatto regolare ai tempi in cui avevi appena iniziato a lavorare in smartworking. Com’è oggi il vostro rapporto?"**
+
+**"Quanto è cambiato, negli anni, il modo in cui ti rapporti con i colleghi?"**
+
+**"Guardando ai prossimi anni, quale sarebbe per te la modalità di lavoro ideale e perché?"**
+
+# Questions – Domain expert: work psychologist
+
+**"Come è arrivato/a a occuparsi di psicologia del lavoro?"**
+
+**"Che cosa spinge maggiormente i lavoratori da remoto a rivolgersi a lei?"**
+
+**"Qual è l'aspetto più interessante che vede emergere tra i lavoratori da remoto under 35 con cui interagisce?"**
+
+**"Quanto differisce la percezione del lavoro da remoto tra chi lo ha iniziato da poco e chi lo svolge da tanti anni?"**
+
+**"Elenchi 3 strategie che ritiene efficaci per mantenere separate vita lavorativa e tempo libero."**
+
+**"Cosa ha visto accadere nelle relazioni sociali dei lavoratori da remoto, rispetto a chi lavora in presenza?"**
+
+**"C'è qualcosa che non abbiamo chiesto e che ritiene utile aggiungere?"**
