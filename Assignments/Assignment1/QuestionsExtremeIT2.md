@@ -1,7 +1,7 @@
 # Questions
 
 ## Extreme User: Over 40, long-term full-remote worker 
----
+
 
 ## 0. Context
 
@@ -9,7 +9,7 @@
    - **1.1.** "Il tuo team è tutto remoto oppure ci sono anche persone che lavorano in presenza?"
    - **1.2.** "Quanto dipende il tuo lavoro dalla collaborazione con altre persone?"
 
----
+
 
 ## 1. Evolution of Remote Work
 
@@ -28,7 +28,7 @@
    - **4.2.** "Ricordi un episodio che ti ha fatto capire che dovevi cambiare approccio?"
    - **4.3.** "Ti capita ancora che questo sistema non funzioni?"
 
----
+
 
 ## 2. Work-Life Boundaries
 
@@ -48,7 +48,7 @@
    - **7.3.** "Cosa sarebbe successo se avessi rimandato quella cosa al giorno successivo?"
    - **7.4.** "Questa capacità di decidere quando fermarti è cambiata negli anni?"
 
----
+
 
 ## 3. Social Wellbeing
 
@@ -64,7 +64,7 @@
 10. **"Raccontami l'ultima interazione sociale spontanea che hai avuto durante o subito dopo una giornata lavorativa."**
     - **10.1.** "Sarebbe successa allo stesso modo se avessi lavorato in un appartamento in città?"
 
----
+
 
 ## 4. Relazioni professionali vs relazioni personali
 
@@ -76,7 +76,7 @@
     - **12.2.** "Quali invece ti sembrano inutili o artificiali?"
     - **12.3.** "Ricordi un episodio recente in cui ti sei sentito particolarmente parte del team?"
 
----
+
 
 ## 5. Workspace, Technology and Remote-Work Skills
 
@@ -96,7 +96,7 @@
     - **15.3.** "C'è stato qualcosa che ha reso difficile aiutarlo a distanza?"
     - **15.4.** "Cosa avrebbe reso quell'interazione più semplice?"
 
----
+
 
 ## 6. Age and Life Stage
 
@@ -108,7 +108,7 @@
 18. **"Hai raccontato che oggi hai meno inquietudini legate alla carriera e che il luogo fisico di lavoro per te ha perso molta importanza. Ricordi una fase in cui invece queste preoccupazioni erano più presenti?"**
     - **18.1.** "In quel periodo il fatto di lavorare da remoto influenzava le tue decisioni professionali in modo diverso?"
 
----
+
 
 ## 7. Remote Work and Personal Responsibilities
 
@@ -116,7 +116,7 @@
     - **19.1.** "Come avresti gestito la stessa situazione lavorando in presenza?"
     - **19.2.** "Ci sono invece momenti in cui questa flessibilità rende meno chiaro il confine tra responsabilità personali e lavoro?"
 
----
+
 
 ## 8. Frictions and Workarounds
 
@@ -131,7 +131,7 @@
 22. **"Qual è una strategia che oggi utilizzi per lavorare bene da remoto e che probabilmente una persona che ha appena iniziato non penserebbe di adottare?"**
     - **22.1.** "Mi racconti l'episodio che ti ha portato a svilupparla?"
 
----
+
 
 ## 9. Closing / Comparison with Younger Remote Workers
 
