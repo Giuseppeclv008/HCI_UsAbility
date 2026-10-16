@@ -3,9 +3,31 @@
 
 ## Immediate User: Smart workers under 35 full-time
 
+Ciao! Innanzitutto grazie mille per aver accettato di partecipare alla nostra intervista.
+
+Siamo un gruppo di studenti del Politecnico di Torino e stiamo svolgendo un progetto per il corso di Human-Computer Interaction Fundamentals.
+
+Il nostro progetto si concentra sull’esperienza quotidiana delle persone under 35 che lavorano completamente da remoto. In particolare, ci interessa capire come organizzano le proprie giornate, come vivono le relazioni sociali e come gestiscono il rapporto tra lavoro e vita personale.
+
+L’obiettivo di questa intervista è conoscere la tua esperienza personale. Non ci sono risposte giuste o sbagliate: ci interessa capire come vivi concretamente queste situazioni, anche attraverso episodi della tua quotidianità.
+
+L’intervista durerà indicativamente 30–40 minuti. Ti faremo alcune domande aperte sulla tua esperienza e, in alcuni casi, potremmo chiederti di raccontarci episodi specifici.
+
+Le informazioni raccolte saranno utilizzate per il nostro progetto universitario, senza riportare elementi che permettano di identificarti.
+
+### 0. Introduzione
+
+Prima di entrare nel vivo dell’intervista, vorremmo farti qualche domanda generale per conoscere meglio il tuo contesto lavorativo e personale.
+
+1.  **"Quanti anni hai?"**
+
+2. **"Di cosa ti occupi lavorativamente? Qual è il tuo ruolo?"** 
+
+
 ### 1. Background, Context and Routine
 
 1. **"Da quanto tempo lavori completamente da remoto?"**
+    -  1.1. "Prima di iniziare a lavorare completamente da remoto, hai avuto esperienze lavorative in presenza o in modalità ibrida?"
 
 2. **"Raccontami come si è svolta la tua ultima giornata lavorativa, dal momento in cui ti sei svegliato fino a quando hai smesso di lavorare."**
    - **2.1.** "Durante la giornata hai sentito il bisogno di fare una pausa oltre a quella pranzo, oppure non ne hai sentito il bisogno?"
