@@ -2,13 +2,13 @@
 
 **Corso:** Human-Computer Interaction (HCI Fundamentals) – A.A. 2026/2027  
 **Istituzione:** Politecnico di Torino  
-**Titolo del Progetto:** [Inserire Titolo del Progetto / es. Playful Health & Wellbeing in Remote Work]  
-**Gruppo di Ricerca:** [Inserire Nomi dei Membri del Team]  
+**Titolo del Progetto:** Playful Health & Wellbeing in Remote Work  
+**Gruppo di Ricerca:** Us Ability  
 
 ---
 
 ## 1. Finalità dello Studio
-Stiamo conducendo interviste qualitative con gli utenti nell'ambito di un progetto accademico per il corso di Human-Computer Interaction. L'obiettivo della ricerca è indagare **[es. benessere sociale, salute e svago (playful wellbeing) e confini vita-lavoro nei giovani lavoratori da remoto]**, al fine di individuare bisogni, difficoltà e opportunità di progettazione.
+Stiamo conducendo interviste qualitative con gli utenti nell'ambito di un progetto accademico per il corso di Human-Computer Interaction. L'obiettivo della ricerca è indagare il benessere sociale, salute e svago e confini vita-lavoro nei giovani lavoratori da remoto, al fine di individuare bisogni, difficoltà e opportunità di progettazione.
 
 ---
 
@@ -58,8 +58,8 @@ Ti preghiamo di verificare e spuntare ciascuna delle seguenti dichiarazioni:
 
 ### Ricercatore / Intervistatore
 
-**Nome e Cognome (in stampatello):** __________________________________________________  
+**Nome e Cognome (in stampatello):** Giuseppe Antonio Calvello  
 
 **Firma:** ___________________________________________________________  
 
-**Data:** ________________________  
+**Data:** 18/10/2026  
