@@ -19,7 +19,8 @@ Full-remote work is a relatively recent phenomenon, in which habits and solution
 ## 2. Methodology
 
 ### a. Participants
-* **Why were they chosen? Why are they appropriate? How were they recruited?**
+* **Why were they chosen? Why are they appropriate? How were they recruited? Which is their age, gender, …? Who is the extreme user and why? Who is the
+domain expert, if any?**
   * The participants have been chosen because they directly experience the practice we want to explore, allowing us to collect information based on real everyday life.
   * They are appropriate because they belong to, or can speak about, the population of our domain (full-remote workers, mostly under 35) and can describe concretely how they organize their day, separate work from personal life, and maintain social relationships in the context of our domain.
   * Participants were recruited by sending messages on LinkedIn to people matching our target profile, posting on Linkedin groups related to remote work, and by publishing posts on the Reddit platform. We also contacted via e-mail some coworking spaces located in Torino, but received no reply in this case.
@@ -41,7 +42,9 @@ Full-remote work is a relatively recent phenomenon, in which habits and solution
 * DA COMPLETARE
 
 ### c. What did you observe (if any) and ask (i.e., questions)?
-* The list of questions we asked is contained in the files `QuestionsImmediateUser.md`, `QuestionsExtremeIT.md`, `QuestionsDomainExpert.md`.
+* The list of questions we asked is contained in the files [`QuestionsImmediateUser.md`](./QuestionsImmediateUser.md), [`QuestionsExtremeIT.md`](./QuestionsExtremeIT.md), and [`QuestionsDomainExpert.md`](./QuestionsDomainExpert.md).
+* In particular, the questions asked to the extreme user were personalized based on what he wrote in the questionnaire, and served as follow-up questions to explore some specific aspects more in depth.
+* AGGIUNGERE LINK AL FORM
 * Since the work environment of our participants is mainly their own home, a direct observation would have been intrusive. However, some participants kindly shared with us pictures of their work setup (desk, monitors etc.), giving us a partial view of the physical context in which they work, complementing what they described verbally during the interviews.
 
 ### d. Team member roles for each interview
