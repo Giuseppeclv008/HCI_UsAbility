@@ -46,7 +46,7 @@ domain expert, if any?**
 ### b. Where were the interviews conducted?
 * **Extreme user:** The interview has been conducted online (Google Meet) because the participant is based in France.
 * **Immediate user 1:** The interview has been conducted in a public park in Torino, as explicitly requested by the participant.
-* **Immediate user 2:** The interview has been conducted at the interviewer's place.
+* **Immediate user 2:** The interview has been conducted at the interviewee's home.
 
 ### c. What did you observe (if any) and ask (i.e., questions)?
 * The list of questions we asked is contained in the files [`QuestionsImmediateUser.md`](./QuestionsImmediateUser.md), [`QuestionsExtremeIT.md`](./QuestionsExtremeIT.md), and [`QuestionsDomainExpert.md`](./QuestionsDomainExpert.md).
