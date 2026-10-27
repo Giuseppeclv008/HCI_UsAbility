@@ -28,13 +28,20 @@ domain expert, if any?**
     1. Collect further information about the experience of remote workers, to complement the interviews, and use it to perform a deeper thematic analysis.
     2. Find more participants, by asking respondents whether they were willing to be interviewed and giving them the option to leave their e-mail address so we could contact them. In particular, the extreme user has been recruited thanks to this form.
 
-> DA AGGIUNGERE ETÀ, GENERE E RUOLO LAVORATIVO DI TUTTI GLI INTERVISTATI
-
 * **Extreme user:**
   * The extreme user is a full-remote worker over 40 who has been working remotely for 11 years. He is “extreme” because of his seniority in the practice: having lived through remote work over time, he can offer a long-term perspective and show how habits and solutions have consolidated or changed, aspects that younger participants may not have experienced yet. He deliberately falls outside the under-35 range for this reason.
 
 * **Domain expert:**
   * The domain expert is a work psychologist, chosen to offer an external professional perspective on wellbeing in the workplace, to be compared with the experiences reported by the other participants.
+ 
+| Participant | Age | Gender | Professional role |
+| :--- | :--- | :--- | :--- |
+| Immediate user 1 | 33 | Male | Budget and contracts development for clinical trials |
+| Immediate user 2 | 28 | Female | Product owner |
+| Immediate user 3 | 34 | Female | Solution architect |
+| Immediate user 4 | 29 | Male | Software sales |
+| Extreme user | 42 | Male | Sys admin |
+| Domain expert | n/d | Female | Work psychologist |
 
 ### b. Where were the interviews conducted?
 * **Extreme user:** The interview has been conducted online (Google Meet) because the participant is based in France.
