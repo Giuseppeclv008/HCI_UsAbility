@@ -46,7 +46,7 @@ domain expert, if any?**
 ### b. Where were the interviews conducted?
 * **Extreme user:** The interview has been conducted online (Google Meet) because the participant is based in France.
 * **Immediate user 1:** The interview has been conducted in a public park in Torino, as explicitly requested by the participant.
-* DA COMPLETARE
+* **Immediate user 2:** The interview has been conducted at the interviewer's place.
 
 ### c. What did you observe (if any) and ask (i.e., questions)?
 * The list of questions we asked is contained in the files [`QuestionsImmediateUser.md`](./QuestionsImmediateUser.md), [`QuestionsExtremeIT.md`](./QuestionsExtremeIT.md), and [`QuestionsDomainExpert.md`](./QuestionsDomainExpert.md).
@@ -57,7 +57,8 @@ domain expert, if any?**
 ### d. Team member roles for each interview
 * **Extreme user:** Giuseppe Calvello conducted the interview asking the questions; Lisa Arduini audio-recorded the interview and took notes.
 * **Immediate user 1:** Lisa Arduini conducted the interview asking the questions; Francesca De Pascale audio-recorded the interview and took notes.
-* DA COMPLETARE
+* **Immediate user 2:** Francesca De Pascale conducted the interview asking the questions, audio-recorded the interview and took notes.
+* **Domain Expert:** Luisa Crivo conducted the interview asking the questions; Francesca De Pascale audio-recorded the interview and took notes.
 
 ### e. Any material you used (camera, recorder, etc.)
 * Audio-recordings have been taken through our smartphones.
