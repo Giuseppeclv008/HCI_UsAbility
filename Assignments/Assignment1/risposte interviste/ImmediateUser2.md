@@ -1,4 +1,4 @@
-# Intervista immediate 2
+# Intervista immediate user 2
 
 **Francesca:** Innanzitutto grazie mille per aver accettato di partecipare alla nostra intervista. Siamo un gruppo di studenti del Politecnico di Torino e stiamo svolgendo un progetto per il corso di Human Computer Interaction. Il nostro progetto si concentra sull'esperienza quotidiana delle persone under 35 che lavorano completamente da remoto.
 
