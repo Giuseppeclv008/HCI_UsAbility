@@ -51,7 +51,7 @@ domain expert, if any?**
 * **Immediate user 4:** The interview has been conducted online (Google Meet) because the participant is not based in Italy.
 
 ### c. What did you observe (if any) and ask (i.e., questions)?
-* The list of questions we asked is contained in the files [`QuestionsImmediateUser.md`](./QuestionsImmediateUser.md), [`QuestionsExtremeIT.md`](./QuestionsExtremeIT.md), and [`QuestionsDomainExpert.md`](./QuestionsDomainExpert.md).
+* The list of questions we asked is contained in the files [`QuestionsImmediateUser.md`](./interviews/questions/QuestionsImmediateUser.md), [`QuestionsExtremeIT.md`](./interviews/questions/QuestionsExtremeIT.md), and [`QuestionsDomainExpert.md`](./interviews/questions/QuestionsDomainExpert.md).
 * In particular, the questions asked to the extreme user were personalized based on what he wrote in the questionnaire, and served as follow-up questions to explore some specific aspects more in depth.
 * GOOGLE FORM: https://docs.google.com/forms/d/e/1FAIpQLSfKr93cgz-TDBY6pAzW0AD8rrnYMGjbF621t99qtgOYimQ1PQ/viewform
 * Since the work environment of our participants is mainly their own home, a direct observation would have been intrusive. However, some participants kindly shared with us pictures of their work setup (desk, monitors etc.), giving us a partial view of the physical context in which they work, complementing what they described verbally during the interviews.
@@ -80,7 +80,7 @@ domain expert, if any?**
 
 Starting from the results of the thematic analysis, we brainstormed the user needs that emerged from each theme, defining them as activities and desires with which users could use help ("needs a way to…"), rather than solutions. We identified them in two ways: directly from recurring user traits, and from contradictions between intentions and actions (based on what participants declared). Each need is linked to the theme it originates from.
 
-![See picture](themes/Needs_Brainstorming.jpg)
+![See picture](analysis/themes/Needs_Brainstorming.jpg)
 
 ### b. Present the 3-4 deep user needs; explicitly connect each of them to one or more thematic analysis’ themes
 
