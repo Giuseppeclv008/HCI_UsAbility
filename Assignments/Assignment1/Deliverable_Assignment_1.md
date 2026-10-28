@@ -68,4 +68,21 @@ domain expert, if any?**
 * Audio-recordings have been taken through our smartphones.
 * Pen and paper have been used to take notes during the interviews.
 
+--- 
+
+## 3. Results
+
+--- 
+
+## 4. User needs
+
+--- 
+
+## 5. Solutions
+
+---
+
+## 6. Project name and value proposition
+
+
 
