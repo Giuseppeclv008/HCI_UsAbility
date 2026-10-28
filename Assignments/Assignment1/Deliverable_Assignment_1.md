@@ -80,7 +80,7 @@ domain expert, if any?**
 
 Starting from the results of the thematic analysis, we brainstormed the user needs that emerged from each theme, defining them as activities and desires with which users could use help ("needs a way to…"), rather than solutions. We identified them in two ways: directly from recurring user traits, and from contradictions between intentions and actions (based on what participants declared). Each need is linked to the theme it originates from.
 
-![See picture](Assignments/Assignment1/themes/Needs_Brainstorming.jpg)
+![See picture](themes/Needs_Brainstorming.jpg)
 
 ### b. Present the 3-4 deep user needs; explicitly connect each of them to one or more thematic analysis’ themes
 
