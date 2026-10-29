@@ -102,17 +102,17 @@ domain expert, if any?**
 
 ### b. Themes from the thematic analysis with key quotes
 
-We coded the interview transcripts (66 codes, C01–C66) and the open-ended answers of the questionnaire (56 codes, S01–S56, from 158 excerpts of 15 respondents). We first grouped the interview codes into six candidate themes, then reviewed them using the questionnaire codes: one theme was split in two, one was dissolved and its codes reassigned, and a new one emerged from the questionnaire. The result is **seven final themes**, summarized below with some key quotes (translated from Italian).
+We coded the interview transcripts (66 codes, C01–C66) and the open-ended answers of the questionnaire (56 codes, S01–S56, from 158 excerpts of 15 respondents). We first grouped the interview codes into six candidate themes, then reviewed them using the questionnaire codes. During this review, one theme was split into two, one was dissolved and its codes were reassigned, while a new theme emerged from the combined interview and questionnaire data. The result is **seven final themes**, summarized below with some representative quotes translated from Italian.
 
-| Theme | Subthemes | Key quotes |
-| :--- | :--- | :--- |
-| **T1 Flexible Boundaries Between Work and Life** | a. Strategies and Structures for Disconnecting<br>b. When Work Spills Over<br>c. Permeability as a Choice | *"I close the computer and the work phone, so nobody can contact me."* (U3)<br>*"I pick up the computer when I shouldn't [...] I read some messages [...] and I start to worry."* (U3)<br>*"In terms of work-life separation, I prefer less separation and more freedom to organize myself."* (EU) |
-| **T2 Asking for Help at a Distance** | a. Reaching the Right People<br>b. The Fear of Disturbing Others<br>c. Fragile Onboarding | *"My boss has 7 people under him [...] sometimes I feel forced to manage on my own."* (U4)<br>*"They are afraid of disturbing, they don't want to write you their doubt as soon as it comes [...] I must not show that I don't know."* (EU)<br>*"They gave me my first credentials, I log in for the first time and then I don't know what to do."* (EU) |
-| **T3 Distant Colleagues, Slowly Built Bonds** | a. Cordial but Distant Relationships<br>b. Meeting in Person | *"I've seen them in person only once [...] we laugh, we joke [...] but it's always a virtual relationship."* (U1)<br>*"Since we met in person, our relationship has become much more confidential."* (U2) |
-| **T4 Building a Social Life Intentionally** | a. Building a Social Network Outside Work<br>b. The Risk of Isolation | *"If you don't have hobbies or aren't inclined to go out [...] it's very isolating, alienating [...] it's a bubble."* (U1)<br>*"We force ourselves to go out with our friends on Friday, Saturday and Sunday."* (U4)<br>*"In winter, with the dark and the bad weather, sometimes you feel imprisoned."* (questionnaire) |
-| **T5 When Home Becomes the Office** | a. Space and Physical Well-Being<br>b. Other People at Home | *"I only go in there to work [...] if I worked in my bedroom [...] psychologically it would bother me more."* (U4)<br>*"It often happened that I was interrupted by my mother, my father or another family member."* (U2) |
-| **T6 Freedom and Work–Life Balance** | a. Time Regained<br>b. Location and Family | *"When the working day ends you're already at home [...] you can do whatever you want."* (U3)<br>*"The electrician has to come to the house: you don't need to take a day off [...] you keep working."* (U3) |
-| **T7 Precarious Remote Work** | a. Fear of Losing Remote Work<br>b. The Relationship with the Office | *"Many are afraid of leaving the city [...] because of possible recalls to the office."* (EU)<br>*"There are no contractual guarantees [...] the worry of losing this level of wellbeing from one moment to the next is what gives me the most anxiety."* (questionnaire) |
+| **Theme** | **Subthemes** | **Key quotes** |
+| --- | --- | --- |
+| **T1 – Flexible Boundaries Between Work and Life** | a. Disconnection strategies and structures<br>b. When boundaries break down<br>c. Permeability as a choice | “I close the computer and the work phone, so nobody can contact me.” — Immediate User 3<br><br>“I prefer less separation between work and life and more freedom in organizing my time.” — Extreme User |
+| **T2 – Asking for Help Remotely** | a. Reaching people<br>b. Fear of disturbing others<br>c. Fragile onboarding | “Instead of just going to their office, you have to find a moment when they are available.” — Immediate User 3<br><br>“Sometimes I feel forced to figure things out on my own.” — Immediate User 4 |
+| **T3 – Distant Colleagues, Slowly Built Bonds** | a. Cordial but Distant Relationships<br>b. Meeting in Person | “Since we met in person, our relationship has become much more informal and close.” — Immediate User 2<br><br>“We joke and chat, but it is still a virtual relationship.” — Immediate User 1 |
+| **T4 – Building a Social Life Intentionally** | a. Building a Social Network Outside Work<br>b. The Risk of Isolation | “If you don't have hobbies or you're not willing to go out, it can become very isolating.” — Immediate User 1<br><br>“Sometimes I have to make myself go out.” — Questionnaire respondent |
+| **T5 – When Home Becomes Office** | a. Space and Physical Well-Being<br>b. Other People at Home | “I only go into that room to work.” — Immediate User 4<br><br>“I tried to create a space where I could be quiet and avoid interruptions from my family.” — Immediate User 2 |
+| **T6 – Freedom and Work–Life Balance** | a. Time Regained<br>b. Location and Family | “When the working day ends, you're already home and you can do whatever you want.” — Immediate User 3<br><br>“Remote work allowed me to leave the big city and move to the mountains.” — Extreme User |
+| **T7 – Precarious Remote Work** | a. Fear of Losing Remote Work<br>b. The relationship with the office | “There are no contractual guarantees [...] losing this level of well-being is what worries me the most.” — Questionnaire respondent<br><br>“I would consider hybrid work only if the office were close to home.” — Questionnaire respondent |
 
 The full analysis, with all codes, excerpts in the original language and the review decisions, is in the following files:
 * [`Interview Coding and Candidate Themes.md`](./analysis/themes/Interview%20Coding%20and%20Candidate%20Themes.md): interview codes, excerpts for each participant, and candidate themes.
@@ -127,7 +127,7 @@ The full analysis, with all codes, excerpts in the original language and the rev
 
 Starting from the results of the thematic analysis, we brainstormed the user needs that emerged from each theme, defining them as activities and desires with which users could use help ("needs a way to…"), rather than solutions. We identified them in two ways: directly from recurring user traits, and from contradictions between intentions and actions (based on what participants declared). Each need is linked to the theme it originates from.
 
-![See picture](analysis/themes/Needs_Brainstorming.jpg)
+![See picture](images/A1 Needfinding - NeedsBrainstorming.jpg)
 
 ### b. Introduce the deep user needs
 
@@ -143,32 +143,72 @@ From this list, we selected the four needs that we considered the most insightfu
 | **4. Making work and domestic life coexist in the same space, protecting concentration and physical wellbeing without excluding the people at home** | T1 Flexible Boundaries Between Work and Life<br>T5 When Home Becomes the Office | Workspace issues appear in all 6 interviews (C22–C26), interruptions in U1–U4 and EU (C27), family tensions in EU (C62).<br>People at home can both the source of interruptions and the reason remote work was chosen (C55, e.g. U3's daughter). A dedicated room also works as a mental boundary (C16: U1, U4), which links this need to Deep need 1. |
 
 --- 
-
 ## 5. Solutions
 
-**Chosen solution: a support loop for remote teams**
+### a. Brainstorming
+
+Starting from the four deep user needs identified in the previous step, we conducted a brainstorming session to explore different possible ways of addressing each need.
+
+For each deep need, we generated several ideas without initially considering technical feasibility or trying to define specific app features. The goal was to explore a wide range of possible approaches before selecting one direction.
+
+Overall, we generated **24 possible solutions**, six for each deep need.
+
+<p align="center">
+  <img src="images/A1 Needfinding - Solutions.jpg" width="900">
+</p>
+
+The brainstorming covered four main areas:
+
+- **Deep need 1:** helping remote workers maintain control over the boundaries between work and personal life.
+- **Deep need 2:** helping remote workers ask for help and build relationships with colleagues without feeling like a burden.
+- **Deep need 3:** helping remote workers turn the time gained through remote work into opportunities for social interaction.
+- **Deep need 4:** helping people manage working and living in the same physical space.
+
+The generated ideas included different approaches such as end-of-day routines, shared availability rules, support buddies, question boxes, informal coffee chats, local social activities, focus signals at home, and shared break routines.
+
+### b. Selection of the final solution
+
+After the brainstorming phase, we used the **Four Categories Method** to compare and discuss the proposed ideas.
+
+<p align="center">
+  <img src="images/A1 Needfinding - Analisi tematica - Four Categories Method.jpg" width="700">
+</p>
+
+Rather than selecting a single brainstorming idea exactly as it was originally proposed, we decided to combine three complementary ideas related to **Deep need 2**:
+
+- **A support buddy for new employees**
+- **Who-knows-what map**
+- **Question box**
+
+### c. Chosen solution: a support loop for remote teams
 
 A collaborative support system that helps young remote workers ask for help without feeling like a burden. By combining peer support, shared knowledge, and opportunities to ask questions without pressure, it makes assistance easier to access and encourages stronger relationships among remote colleagues.
 
-
 **Need addressed (Deep need 2):** users need to ask for help and get to know their colleagues remotely without feeling like a burden.
-Themes: T2 Asking for Help Remotely, T3 Remote Colleagues, Slow Bonds.
 
-**Why we selected it:** Starting from the solutions addressing the 4 extracted deep needs, we categorized them using the Four Categories Method. We came up with this final idea mixing up 3 different solutions:
-* A support buddy for new employees
-* Who-knows-what map
-* Question box
+**Related themes:**
+- **T2 – Asking for Help Remotely**
+- **T3 –  Distant Colleagues, Slowly Built Bonds**
 
-<p align="center">
-  <img src="images/A1 Needfinding - Analisi tematica - Four Categories Method.jpg" width="500">
-</p>
+### d. Why we selected it
 
-We chose to combine them because asking for help remotely emerged in the interviews as one of the main problems, with an impact on employees' well-being on both sides of the conversation:
-* **Who needs to ask** feels uncomfortable asking or is afraid of disturbing colleagues, and often ends up coping alone. One immediate user explained that, since his manager has seven people to follow, he sometimes feels forced to manage on his own instead of asking (U4). The extreme user described newcomers who are afraid of showing they don't know something and keep their questions to themselves (EU).
-* **Who answers** receives the same questions all at once, in large blocks, after weeks of silence. The extreme user told us that when a newcomer finally opens up, "out comes the list of things they wanted to ask and didn't", and that a quick message would disturb far less than half an hour spent on questions that could have been asked two months earlier (EU).
+Asking for help remotely emerged from the interviews as one of the most relevant difficulties, affecting both the person asking for support and the person providing it.
 
-The final solution addresses both sides together: the buddy gives newcomers a safe first person to turn to, the map spreads questions across the people who actually know each topic and shows when they are available, and the question box turns large, unexpected blocks of questions into a regular shared moment, where questions can also be asked anonymously.
+**For the person asking for help**, contacting a colleague can feel intrusive. Some participants reported trying to solve problems independently rather than disturbing someone else.
 
+One immediate user explained that, since his manager has several people to support, he sometimes feels forced to manage problems on his own instead of asking for help (U4).
+
+The extreme user described a similar situation during remote onboarding: newcomers may be afraid of showing that they do not know something and therefore keep their questions to themselves (EU).
+
+**For the person providing help**, this hesitation can create the opposite problem. Questions are sometimes accumulated and asked all at once instead of being addressed when they first arise.
+
+The extreme user explained that when a newcomer finally starts asking questions, *“out comes the list of things they wanted to ask and didn't”*. He also noted that a quick message would be much less disruptive than spending a long time answering questions that could have been addressed earlier.
+
+The final solution therefore addresses both sides of the interaction:
+
+- the **support buddy** gives newcomers a trusted first person to contact;
+- the **who-knows-what map** helps workers understand who has the right knowledge and who may be available to help;
+- the **question box** provides a low-pressure way to collect questions and discuss them at a regular moment, with the possibility of asking anonymously.
 ---
 
 ## 6. Project name and value proposition
