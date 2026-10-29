@@ -103,5 +103,5 @@ From this list, we selected the four needs that we considered the most insightfu
 
 ## 6. Project name and value proposition
 
-
-
+**Name:** JarGone
+**Value preposition:** "Questions in, doubts gone."
