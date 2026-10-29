@@ -127,7 +127,9 @@ The full analysis, with all codes, excerpts in the original language and the rev
 
 Starting from the results of the thematic analysis, we brainstormed the user needs that emerged from each theme, defining them as activities and desires with which users could use help ("needs a way to…"), rather than solutions. We identified them in two ways: directly from recurring user traits, and from contradictions between intentions and actions (based on what participants declared). Each need is linked to the theme it originates from.
 
-![See picture](images/A1 Needfinding - NeedsBrainstorming.jpg)
+<p align="center">
+  <img src="images/A1 Needfinding - NeedsBrainstorming.jpg" width="900">
+</p>
 
 ### b. Introduce the deep user needs
 
