@@ -141,7 +141,6 @@ The final solution addresses both sides together: the buddy gives newcomers a sa
 ---
 
 ## 6. Project name and value proposition
-## 6. Project name and value proposition
 
 **Name:** JarGone
 
