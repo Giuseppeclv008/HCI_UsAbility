@@ -14,8 +14,6 @@
 
 Full-remote work is a relatively recent phenomenon, in which habits and solutions are still evolving. We focused on remote-workers under 35 because many people in this age group are at the beginning of their careers and build their routines in a context that still lacks established practices to rely on. It is therefore interesting to study how individuals manage their everyday life, work-life boundaries, and social relationships, which can vary greatly from person to person. This approach may allow us to uncover needs that are still little known and largely unexplored.
 
----
-
 ## 2. Methodology
 
 ### a. Participants
@@ -76,8 +74,6 @@ domain expert, if any?**
 * Audio-recordings have been taken through our smartphones.
 * Pen and paper have been used to take notes during the interviews.
 
---- 
-
 ## 3. Results
 
 ### a. Pictures and relevant artifacts
@@ -119,8 +115,6 @@ The full analysis, with all codes, excerpts in the original language and the rev
 * [`Form_Coding.md`](./analysis/themes/Form_Coding.md): questionnaire codes and coded answers for each respondent.
 * [`Theme Review and Final Themes.md`](./analysis/themes/Theme%20Review%20and%20Final%20Themes.md): review of the candidate themes and definition of the seven final themes.
 
---- 
-
 ## 4. User needs
 
 ### a. Introduce the user needs
@@ -144,7 +138,6 @@ From this list, we selected the four needs that we considered the most insightfu
 | **3. Turning saved time into real social life outside the home, before drifting into isolation** | T4 Building a Social Life Intentionally<br>T6 Freedom and Work–Life Balance | Time saved by not commuting (C54) is the benefit everyone cites. However, some interviewees mentioned isolation without personal initiative (C48: U1, PSI), days spent entirely at home (C50: U1, U2, U4), social life that has to be planned (C49), built through interests (C46, C64) or local community (C51, EU). |
 | **4. Making work and domestic life coexist in the same space, protecting concentration and physical wellbeing without excluding the people at home** | T1 Flexible Boundaries Between Work and Life<br>T5 When Home Becomes the Office | Workspace issues appear in all 6 interviews (C22–C26), interruptions in U1–U4 and EU (C27), family tensions in EU (C62).<br>People at home can both the source of interruptions and the reason remote work was chosen (C55, e.g. U3's daughter). A dedicated room also works as a mental boundary (C16: U1, U4), which links this need to Deep need 1. |
 
---- 
 ## 5. Solutions
 
 ### a. Brainstorming
@@ -211,7 +204,6 @@ The final solution therefore addresses both sides of the interaction:
 - the **support buddy** gives newcomers a trusted first person to contact;
 - the **who-knows-what map** helps workers understand who has the right knowledge and who may be available to help;
 - the **question box** provides a low-pressure way to collect questions and discuss them at a regular moment, with the possibility of asking anonymously.
----
 
 ## 6. Project name and value proposition
 
