@@ -132,6 +132,12 @@ Themes: T2 Asking for Help Remotely, T3 Remote Colleagues, Slow Bonds.
 * Who-knows-what map
 * Question box
 
+<p align="center">
+  <img src="images/A1%20Needfinding%20-%20Analisi%20tematica%20-%20Four%20Categories%20Method.jpg" width="700">
+</p>
+
+*Figure 4. Solutions brainstormed for the deep needs, categorized with the Four Categories Method (Most Rational, Most Delightful, Darling, Long Shot).*
+
 We chose to combine them because asking for help remotely emerged in the interviews as one of the main problems, with an impact on employees' well-being on both sides of the conversation:
 * **Who needs to ask** feels uncomfortable asking or is afraid of disturbing colleagues, and often ends up coping alone. One immediate user explained that, since his manager has seven people to follow, he sometimes feels forced to manage on his own instead of asking (U4). The extreme user described newcomers who are afraid of showing they don't know something and keep their questions to themselves (EU).
 * **Who answers** receives the same questions all at once, in large blocks, after weeks of silence. The extreme user told us that when a newcomer finally opens up, "out comes the list of things they wanted to ask and didn't", and that a quick message would disturb far less than half an hour spent on questions that could have been asked two months earlier (EU).
