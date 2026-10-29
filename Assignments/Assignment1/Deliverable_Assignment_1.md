@@ -114,9 +114,9 @@ We coded the interview transcripts (66 codes, C01–C66) and the open-ended answ
 | **T7 Precarious Remote Work** | a. Fear of Losing Remote Work<br>b. The Relationship with the Office | *"Many are afraid of leaving the city [...] because of possible recalls to the office."* (EU)<br>*"There are no contractual guarantees [...] the worry of losing this level of wellbeing from one moment to the next is what gives me the most anxiety."* (questionnaire) |
 
 The full analysis, with all codes, excerpts in the original language and the review decisions, is in the following files:
-* [`Interview Coding and Candidate Themes.docx`](./analysis/themes/Interview%20Coding%20and%20Candidate%20Themes.docx): interview codes, excerpts for each participant, and candidate themes.
-* [`Form_Coding.docx`](./analysis/themes/Form_Coding.docx): questionnaire codes and coded answers for each respondent.
-* [`Theme Review and Final Themes.docx`](./analysis/themes/Theme%20Review%20and%20Final%20Themes.docx): review of the candidate themes and definition of the seven final themes.
+* [`Interview Coding and Candidate Themes.md`](./analysis/themes/Interview%20Coding%20and%20Candidate%20Themes.md): interview codes, excerpts for each participant, and candidate themes.
+* [`Form_Coding.md`](./analysis/themes/Form_Coding.md): questionnaire codes and coded answers for each respondent.
+* [`Theme Review and Final Themes.md`](./analysis/themes/Theme%20Review%20and%20Final%20Themes.md): review of the candidate themes and definition of the seven final themes.
 * [`analysis/codebooks/`](./analysis/codebooks/): codebooks in spreadsheet format.
 
 --- 
