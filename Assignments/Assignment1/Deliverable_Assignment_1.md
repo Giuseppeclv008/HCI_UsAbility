@@ -66,7 +66,7 @@ domain expert, if any?**
 ### d. Team member roles for each interview
 * **Extreme user:** Giuseppe Calvello conducted the interview asking the questions; Lisa Arduini audio-recorded the interview and took notes.
 * **Immediate user 1:** Lisa Arduini conducted the interview asking the questions; Francesca De Pascale audio-recorded the interview and took notes.
-* **Immediate user 2:** Francesca De Pascale conducted the interview asking the questions, audio-recorded the interview and took notes.
+* **Immediate user 2:** Francesca De Pascale conducted the interview asking the questions; Giuseppe Calvello audio-recorded the interview and took notes.
 * **Immediate user 3:** Luisa Crivo conducted the interview asking the questions, audio-recorded the interview and took notes.
 * **Immediate user 4:** Lisa Arduini conducted the interview asking the questions; Luisa Crivo audio-recorded the interview and took notes.
 * **Domain Expert:** Luisa Crivo conducted the interview asking the questions; Francesca De Pascale audio-recorded the interview and took notes.
@@ -98,6 +98,26 @@ domain expert, if any?**
 </p>
 
 *Figure 3. A home workspace placed in a shared living area, with natural light, an external monitor, and an ergonomic chair.*
+
+### b. Themes from the thematic analysis with key quotes
+
+We coded the interview transcripts (66 codes, C01–C66) and the open-ended answers of the questionnaire (56 codes, S01–S56, from 158 excerpts of 15 respondents). We first grouped the interview codes into six candidate themes, then reviewed them using the questionnaire codes: one theme was split in two, one was dissolved and its codes reassigned, and a new one emerged from the questionnaire. The result is **seven final themes**, summarized below with some key quotes (translated from Italian).
+
+| Theme | Subthemes | Key quotes |
+| :--- | :--- | :--- |
+| **T1 Flexible Boundaries Between Work and Life** | a. Strategies and Structures for Disconnecting<br>b. When Work Spills Over<br>c. Permeability as a Choice | *"I close the computer and the work phone, so nobody can contact me."* (U3)<br>*"I pick up the computer when I shouldn't [...] I read some messages [...] and I start to worry."* (U3)<br>*"In terms of work-life separation, I prefer less separation and more freedom to organize myself."* (EU) |
+| **T2 Asking for Help at a Distance** | a. Reaching the Right People<br>b. The Fear of Disturbing Others<br>c. Fragile Onboarding | *"My boss has 7 people under him [...] sometimes I feel forced to manage on my own."* (U4)<br>*"They are afraid of disturbing, they don't want to write you their doubt as soon as it comes [...] I must not show that I don't know."* (EU)<br>*"They gave me my first credentials, I log in for the first time and then I don't know what to do."* (EU) |
+| **T3 Distant Colleagues, Slowly Built Bonds** | a. Cordial but Distant Relationships<br>b. Meeting in Person | *"I've seen them in person only once [...] we laugh, we joke [...] but it's always a virtual relationship."* (U1)<br>*"Since we met in person, our relationship has become much more confidential."* (U2) |
+| **T4 Building a Social Life Intentionally** | a. Building a Social Network Outside Work<br>b. The Risk of Isolation | *"If you don't have hobbies or aren't inclined to go out [...] it's very isolating, alienating [...] it's a bubble."* (U1)<br>*"We force ourselves to go out with our friends on Friday, Saturday and Sunday."* (U4)<br>*"In winter, with the dark and the bad weather, sometimes you feel imprisoned."* (questionnaire) |
+| **T5 When Home Becomes the Office** | a. Space and Physical Well-Being<br>b. Other People at Home | *"I only go in there to work [...] if I worked in my bedroom [...] psychologically it would bother me more."* (U4)<br>*"It often happened that I was interrupted by my mother, my father or another family member."* (U2) |
+| **T6 Freedom and Work–Life Balance** | a. Time Regained<br>b. Location and Family | *"When the working day ends you're already at home [...] you can do whatever you want."* (U3)<br>*"The electrician has to come to the house: you don't need to take a day off [...] you keep working."* (U3) |
+| **T7 Precarious Remote Work** | a. Fear of Losing Remote Work<br>b. The Relationship with the Office | *"Many are afraid of leaving the city [...] because of possible recalls to the office."* (EU)<br>*"There are no contractual guarantees [...] the worry of losing this level of wellbeing from one moment to the next is what gives me the most anxiety."* (questionnaire) |
+
+The full analysis, with all codes, excerpts in the original language and the review decisions, is in the following files:
+* [`Interview Coding and Candidate Themes.docx`](./analysis/themes/Interview%20Coding%20and%20Candidate%20Themes.docx): interview codes, excerpts for each participant, and candidate themes.
+* [`Form_Coding.docx`](./analysis/themes/Form_Coding.docx): questionnaire codes and coded answers for each respondent.
+* [`Theme Review and Final Themes.docx`](./analysis/themes/Theme%20Review%20and%20Final%20Themes.docx): review of the candidate themes and definition of the seven final themes.
+* [`analysis/codebooks/`](./analysis/codebooks/): codebooks in spreadsheet format.
 
 --- 
 
