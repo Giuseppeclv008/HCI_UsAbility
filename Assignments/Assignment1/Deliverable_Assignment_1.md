@@ -21,27 +21,34 @@ Full-remote work is a relatively recent phenomenon, in which habits and solution
 ### a. Participants
 * **Why were they chosen? Why are they appropriate? How were they recruited? Which is their age, gender, …? Who is the extreme user and why? Who is the
 domain expert, if any?**
-  * The participants have been chosen because they directly experience the practice we want to explore, allowing us to collect information based on real everyday life.
-  * They are appropriate because they belong to, or can speak about, the population of our domain (full-remote workers, mostly under 35) and can describe concretely how they organize their day, separate work from personal life, and maintain social relationships in the context of our domain.
-  * Participants were recruited by sending messages on LinkedIn to people matching our target profile, posting on Linkedin groups related to remote work, and by publishing posts on the Reddit platform. We also contacted via e-mail some coworking spaces located in Torino, but received no reply in this case.
-  * Moreover, we created a Google Form questionnaire and shared it through the previously mentioned platforms (Reddit and LinkedIn), with two main objectives:
-    1. Collect further information about the experience of remote workers, to complement the interviews, and use it to perform a deeper thematic analysis.
-    2. Find more participants, by asking respondents whether they were willing to be interviewed and giving them the option to leave their e-mail address so we could contact them. In particular, the extreme user has been recruited thanks to this form.
+  * **Why were they chosen?** We interviewed six people: four immediate users, one extreme user and one domain expert. The immediate users are the core of our target: they are under 35, work fully remotely, and live the practice we want to study every day, so they could describe what actually happened in their last working day instead of opinions about remote work in general. The only selection criterion was matching this profile: among the people who matched it, we interviewed those who made themselves available. Even without choosing them for this purpose, the four immediate users turned out to live quite **different situations**, which helped us see how the way people manage boundaries and social life depends on their context:
+    * **Remote seniority:** from 8 months (U4) to 6 years (U3), so we could compare someone still building a routine with someone who has already settled into one.
+    * **Living situation:** with a partner (U1), with parents and other family members (U2), with a partner and a small daughter (U3), alone during working hours while the partner works on site (U4).
+    * **Team and schedule:** an international team split between the Netherlands and the USA (U1), colleagues never met in person (U2), working hours enforced by the system (U4) versus more flexible schedules (U1, U3).
+  * **Why are they appropriate?** They belong to the population of our domain and can describe concretely how they organize their day, separate work from personal life, and keep social relationships while working from home. Together with the extreme user and the domain expert, they let us look at the topic from three points of view: who lives it now, who has lived it for over ten years, and who observes its effects professionally.
+  * **How were they recruited?** We sent direct messages on LinkedIn to people matching our target profile, posted in LinkedIn groups about remote work, and published posts on Reddit. We also contacted some coworking spaces in Torino by e-mail, but received no reply. In addition, we created a Google Form questionnaire (see section 2.c) and shared it on the same platforms, with two goals:
+    1. Collect more information about the experience of remote workers, to complement the interviews and support a deeper thematic analysis.
+    2. Find more participants, by asking respondents if they were willing to be interviewed and letting them leave their e-mail address. The extreme user was recruited this way.
 
-* **Extreme user:**
-  * The extreme user is a full-remote worker over 40 who has been working remotely for 11 years. He is “extreme” because of his seniority in the practice: having lived through remote work over time, he can offer a long-term perspective and show how habits and solutions have consolidated or changed, aspects that younger participants may not have experienced yet. He deliberately falls outside the under-35 range for this reason.
+    All interviewees signed a consent form before the interview (see [`ConsentForm`](./ConsentForm/)).
+  * **Which is their age, gender, …?**
 
-* **Domain expert:**
-  * The domain expert is a work psychologist, chosen to offer an external professional perspective on wellbeing in the workplace, to be compared with the experiences reported by the other participants.
- 
-| Participant | Age | Gender | Professional role |
-| :--- | :--- | :--- | :--- |
-| Immediate user 1 | 33 | Male | Budget and contracts development for clinical trials |
-| Immediate user 2 | 28 | Female | Product owner |
-| Immediate user 3 | 34 | Female | Solution architect |
-| Immediate user 4 | 29 | Male | Software sales |
-| Extreme user | 42 | Male | Sys admin |
-| Domain expert | n/d | Female | Work psychologist |
+| Participant | Age | Gender | Professional role | Fully remote for | Lives with |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Immediate user 1 (U1) | 33 | Male | Budget and contracts development for clinical trials | ~4.5 years | Partner (hybrid worker) |
+| Immediate user 2 (U2) | 28 | Female | Product owner | ~3.5 years | Parents and family |
+| Immediate user 3 (U3) | 34 | Female | Solution architect (e-commerce) | 6 years | Husband and daughter |
+| Immediate user 4 (U4) | 29 | Male | Software sales | 8 months | Wife (works on site) |
+| Extreme user (EU) | 42 | Male | System administrator / architect | 11 years | Alone |
+| Domain expert (PSI) | n/d | Female | Work psychologist | – | – |
+
+* **Who is the extreme user and why?**
+  * The extreme user is a 42-year-old system administrator who has worked fully remotely for 11 years. Remote work allowed him to leave the city (he was living in Sweden at the time) and move to the French Alps, closer to his elderly parents. He lives alone and has a senior role without fixed working hours.
+  * He is "extreme" because of his **seniority in the practice**: he started working remotely when it was still uncommon, so he can show how habits and solutions settle over the years and which problems remain even after a long time. He also sees the practice from the other side, because he welcomes and supports new colleagues who join the team remotely. For these reasons he deliberately falls outside the under-35 range.
+
+* **Who is the domain expert, if any?**
+  * The domain expert is a work psychologist. We chose her to get an external, professional view on wellbeing at work and on the expectations of young workers, to compare with what the users told us.
+  * Her under-35 patients mostly work in hybrid mode (e.g. from home on Fridays) rather than fully remote, so her contribution is mainly about the psychological effects of flexibility, isolation and work–life balance, rather than about full-remote daily routines.
 
 ### b. Where were the interviews conducted?
 * **Extreme user:** The interview has been conducted online (Google Meet) because the participant is based in France.
