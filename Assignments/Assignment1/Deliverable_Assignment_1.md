@@ -74,17 +74,23 @@ domain expert, if any?**
 
 ### a. Pictures and relevant artifacts
 
-![See picture](photo/image.png)
+<p align="center">
+  <img src="photo/image.png" width="500">
+</p>
 
 *Figure 1. A dedicated home workspace with a separate desk, external monitor, ergonomic chair, and a clean environment designed to reduce distractions.*
 
-![See picture](photo/image_2.png)
+<p align="center">
+  <img src="photo/image_2.png" width="500">
+</p>
 
 *Figure 2. A more complex remote-work setup with multiple monitors, an external keyboard, a laptop stand, and additional equipment supporting long and technical work sessions.*
 
-![See picture](photo/image_3.jpeg)
+<p align="center">
+  <img src="photo/image_3.jpeg" width="500">
+</p>
 
-*Figure 3. A home workspace placed in a shared living area, with natural light, an external monitor, and an ergonomic chair. The space combines work equipment with personal and household elements.*
+*Figure 3. A home workspace placed in a shared living area, with natural light, an external monitor, and an ergonomic chair.*
 
 --- 
 
