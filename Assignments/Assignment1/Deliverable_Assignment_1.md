@@ -119,9 +119,32 @@ From this list, we selected the four needs that we considered the most insightfu
 
 ## 5. Solutions
 
+**Chosen solution: a support loop for remote teams**
+
+A collaborative support system that helps young remote workers ask for help without feeling like a burden. By combining peer support, shared knowledge, and opportunities to ask questions without pressure, it makes assistance easier to access and encourages stronger relationships among remote colleagues.
+
+
+**Need addressed (Deep need 2):** users need to ask for help and get to know their colleagues remotely without feeling like a burden.
+Themes: T2 Asking for Help Remotely, T3 Remote Colleagues, Slow Bonds.
+
+**Why we selected it:** Starting from the solutions addressing the 4 extracted deep needs, we categorized them using the Four Categories Method. We came up with this final idea mixing up 3 different solutions:
+* A support buddy for new employees
+* Who-knows-what map
+* Question box
+
+We chose to combine them because asking for help remotely emerged in the interviews as one of the main problems, with an impact on employees' well-being on both sides of the conversation:
+* **Who needs to ask** feels uncomfortable asking or is afraid of disturbing colleagues, and often ends up coping alone. One immediate user explained that, since his manager has seven people to follow, he sometimes feels forced to manage on his own instead of asking (U4). The extreme user described newcomers who are afraid of showing they don't know something and keep their questions to themselves (EU).
+* **Who answers** receives the same questions all at once, in large blocks, after weeks of silence. The extreme user told us that when a newcomer finally opens up, "out comes the list of things they wanted to ask and didn't", and that a quick message would disturb far less than half an hour spent on questions that could have been asked two months earlier (EU).
+
+The final solution addresses both sides together: the buddy gives newcomers a safe first person to turn to, the map spreads questions across the people who actually know each topic and shows when they are available, and the question box turns large, unexpected blocks of questions into a regular shared moment, where questions can also be asked anonymously.
+
 ---
 
 ## 6. Project name and value proposition
+## 6. Project name and value proposition
 
 **Name:** JarGone
-**Value preposition:** "Questions in, doubts gone."
+
+**How we landed on the name:** we imagined the heart of our solution as a jar that collects all the team's questions anonymously, so nobody has to worry about looking inadequate or disturbing a colleague. The name brings this image together with what the solution does. Read aloud, *JarGone* sounds like *jargon*: the team's own language, made of tools, acronyms and unwritten rules, that newcomers struggle to understand and are often too embarrassed to ask about. At the same time, it splits into *jar* + *gone*: questions go into the jar, and doubts are gone once the team answers them together.
+
+**Value proposition:** Questions in, doubts gone.
