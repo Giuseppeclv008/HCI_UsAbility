@@ -117,7 +117,6 @@ The full analysis, with all codes, excerpts in the original language and the rev
 * [`Interview Coding and Candidate Themes.md`](./analysis/themes/Interview%20Coding%20and%20Candidate%20Themes.md): interview codes, excerpts for each participant, and candidate themes.
 * [`Form_Coding.md`](./analysis/themes/Form_Coding.md): questionnaire codes and coded answers for each respondent.
 * [`Theme Review and Final Themes.md`](./analysis/themes/Theme%20Review%20and%20Final%20Themes.md): review of the candidate themes and definition of the seven final themes.
-* [`analysis/codebooks/`](./analysis/codebooks/): codebooks in spreadsheet format.
 
 --- 
 
