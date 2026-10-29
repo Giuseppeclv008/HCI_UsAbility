@@ -73,7 +73,11 @@ domain expert, if any?**
 ## 3. Results
 
 ### a. Pictures and relevant artifacts
-![See picture](photo/image.jpg)
+![See picture](photo/image.png)
+
+![See picture](photo/image_2.png)
+
+![See picture](photo/image_3.jpeg)
 
 --- 
 
