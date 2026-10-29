@@ -72,6 +72,9 @@ domain expert, if any?**
 
 ## 3. Results
 
+### a. Pictures and relevant artifacts
+![See picture](photo/image.jpg)
+
 --- 
 
 ## 4. User needs
