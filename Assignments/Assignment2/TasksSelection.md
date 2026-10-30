@@ -1,10 +1,10 @@
 # Task Selection
 
 ## Simple Task
-Put a question in the questions' Jar
+Resolve a doubt on a specific topic
 
 ## Moderate Task
-Send a request for a private chat 
+Register as a new user and receive a support buddy
 
 ## Complex Task
-Beccome a Buddy for JarGone
+Reach out a buddy that has the right knowledge 
