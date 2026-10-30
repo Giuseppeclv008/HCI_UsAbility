@@ -1,10 +1,11 @@
 # Task Selection
 
 ## Simple Task
-Resolve a doubt on a specific topic
+Resolve a doubt on a topic
 
 ## Moderate Task
-Register as a new user and receive a support buddy
+Match with a suitable support buddy 
 
 ## Complex Task
-Reach out a buddy that has the right knowledge 
+Get help from a colleague with a specific expertise when the assigned support buddy cannot resolve a problem 
+
