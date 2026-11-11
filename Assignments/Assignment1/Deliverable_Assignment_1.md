@@ -4,7 +4,7 @@
 
 ### a. Team members
 * Lisa Arduini
-* Giuseppe Calvello
+* Giuseppe Antonio Calvello
 * Luisa Crivo
 * Francesca De Pascale
 
