@@ -100,18 +100,23 @@ Our first prototype refers to a web application.
 
 ### Connection to the storyboard
 
-* Panels 1-2 (first day, “Join JarGone”, “Support Buddies”): The user enters the app and, starting from the home page, opens the My Buddy section from the side menu. This is the starting point of the matching flow (steps 4-5). The user browses the list of available support buddies who satisfy the selected characteristics, opens a profile through View details, and sends a request with an optional note (steps 5-8). 
-* Panel 3 (“Match!”): Once the request is accepted, the My Buddy page shows the matched support buddy's profile, his/her status (online or how long ago last seen), and gives the possibility to chat (step 11).
-* Panels 4-5 (the problem arises, the user has an idea): The worker clicks on the section The Jar from the side menu, then on the button Insert a Question. He/she writes his/her doubt, can choose to ask anonymously (default option), and adds tags to better define the question and help the right users to find it (steps 1-3). A confirmation message tells that the question has been inserted successfully (step 2).
-* Panels 6-7 (checking the Pinboard, “somebody has already answered”). Clicking on My Questions, the user finds his/her questions and uses View answer to read the received reply (steps 12-14). The answer solves his/her doubt. Solved Questions and Open Questions are kept separated.
-* Panel 8 (“Yay! It works!”). The question moves to the Solved Questions list, confirming that the problem has been resolved.
+* **Panels 1-2 (first day, “Join JarGone”, “Support Buddies”)**: The user enters the app and, starting from the home page, opens the My Buddy section from the side menu. This is the starting point of the matching flow (steps 4-5). The user browses the list of available support buddies who satisfy the selected characteristics, opens a profile through View details, and sends a request with an optional note (steps 5-8). 
+* **Panel 3 (“Match!”)**: Once the request is accepted, the My Buddy page shows the matched support buddy's profile, his/her status (online or how long ago last seen), and gives the possibility to chat (step 11).
+* **Panels 4-5 (the problem arises, the user has an idea)**: The worker clicks on the section The Jar from the side menu, then on the button Insert a Question. He/she writes his/her doubt, can choose to ask anonymously (default option), and adds tags to better define the question and help the right users to find it (steps 1-3). A confirmation message tells that the question has been inserted successfully (step 2).
+* **Panels 6-7 (checking the Pinboard, “somebody has already answered”)**. Clicking on My Questions, the user finds his/her questions and uses View answer to read the received reply (steps 12-14). The answer solves his/her doubt. Solved Questions and Open Questions are kept separated.
+* **Panel 8 (“Yay! It works!”)**. The question moves to the Solved Questions list, confirming that the problem has been resolved.
 
 ### Connection to the three tasks
 
-* Simple task: Resolve a doubt on a topic. It is covered by the flow Home → The Jar → Insert a Question → Insert in the Jar → confirmation → Home → My Questions → Solved Questions → View answer (steps 1-4 and 12-14). The user can also search for already solved questions written by someone else in the past (Home → Solved Questions) and, if he/she cannot find a satisfying answer, insert a new question directly from there. In addition, the screens My Questions → Open Questions allow to change his mind or recover from errors: he/she can edit the question and re-insert it, or delete it (steps 15-19).
+**Simple task: Resolve a doubt on a topic.**
+It is covered by the flow Home → The Jar → Insert a Question → Insert in the Jar → confirmation → Home → My Questions → Solved Questions → View answer (steps 1-4 and 12-14). The user can also search for already solved questions written by someone else in the past (Home → Solved Questions) and, if he/she cannot find a satisfying answer, insert a new question directly from there. In addition, the screens My Questions → Open Questions allow to change his mind or recover from errors: he/she can edit the question and re-insert it, or delete it (steps 15-19).
 In addition, the Answer a Question button (steps 20-22) is related to the other side of the interaction: colleagues who want to help others and feel confident in giving answers, can see open questions and answer them.
-* Moderate task: Match with a suitable support buddy. It is covered by the flow My Buddy → Match with a support buddy → View details → Send request (with optional note) → Request sent successfully (steps 4-9). The Cancel buttons (step 10) allow the user to go back at any moment without sending the request. If the user is already matched, the My Buddy page directly shows the buddy and the chat (step 11).
-* Complex task: Get help from a colleague with a specific expertise when the assigned support buddy cannot resolve a problem. It is covered by the Who-Knows-What Map (step 23), where the user can find colleagues by expertise and ask them for knowledge.
+
+**Moderate task: Match with a suitable support buddy.**
+It is covered by the flow My Buddy → Match with a support buddy → View details → Send request (with optional note) → Request sent successfully (steps 4-9). The Cancel buttons (step 10) allow the user to go back at any moment without sending the request. If the user is already matched, the My Buddy page directly shows the buddy and the chat (step 11).
+
+**Complex task: Get help from a colleague with a specific expertise when the assigned support buddy cannot resolve a problem.**
+It is covered by the Who-Knows-What Map (step 23), where the user can find colleagues by expertise and ask them for knowledge.
 
 During the whole course of the navigation experience, the application shows a plant that grows and flourishes as more remote workers are active in answering open questions. Instead, if too many questions remain unsolved for too long, the plant gradually dries up. This idea is meant to encourage collaboration across users, fostering a stronger sense of community and mutual support.
 
