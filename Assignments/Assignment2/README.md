@@ -144,64 +144,40 @@ Our second prototype refers to a mobile application. The interface is designed f
 
 ### Connection to the three tasks
 
-**Simple task: Resolve a doubt on a topic.**
+**Simple task: Resolve a doubt on a topic.** 
 
-The simple task is mainly supported by the Home, Jar and Pinboard sections.
+It is covered by the flow Home → Ask a Question → Save Draft → Drag into Jar → Check My Questions → View Answers → Accept Solution → Pinboard (steps 1–8 and 12–20).
 
-Starting from the Home page, the user sees a virtual jar with an **Ask a Question** button below it, represented by a sheet of paper with a plus symbol. By tapping this button, the user opens a form where they can enter the question's title, category and description, and optionally attach a file.
+Starting from the Home page, the user can create a question by entering its title, category, description and an optional attachment. After saving, the question appears as a draft below the jar. To publish it, the user must drag the draft into the jar (steps 1–2).
 
-After completing the form and saving it, the question appears as a draft below the jar. At this stage, the question has not yet been published. To submit it, the user must drag the draft into the jar, reproducing the physical action of putting a piece of paper into a container.
+By tapping the jar, the user can choose between Answer Others and Check My Questions. The first option allows users to browse questions submitted by colleagues and propose answers, while the second displays their own submitted questions and the answers received (steps 3–5).
 
-Alternatively, by tapping directly on the jar, the user opens a pop-up with two options: **Answer Others** and **Check My Questions**.
+When an answer solves the problem, the user can accept it as the solution. The question and its accepted answer are then published on the Pinboard, where other colleagues can consult them by tapping the corresponding note (steps 6–8).
 
-The first option displays the questions submitted by other users, allowing the user to read them and propose an answer. The second option displays the questions previously submitted by the user. By selecting a question, the user can consult the answers received, if any.
-
-If one of the answers resolves the doubt, the user can select it as the accepted solution. Only this answer, together with the corresponding question, is then published on the Pinboard.
-
-The Pinboard displays resolved questions as notes. By tapping a note, users can read the full question and its accepted solution. This allows colleagues to reuse knowledge that has already been shared, without having to ask the same question again.
-
-The separation between saving a draft and publishing a question gives users greater control over the submission process, while the drag-and-drop interaction reinforces the visual metaphor of the jar.
+The prototype also includes confirmation messages and the possibility of cancelling certain actions, allowing users to recover from errors or change their minds.
 
 **Moderate task: Match with a suitable Support Buddy.**
 
-The moderate task is supported by the Buddies and Chat sections.
+It is covered by the flow Buddies → Buddy Cards → Support Buddy Profile → Submit Match Request → Match Accepted → Chat.
 
-Starting from the bottom navigation bar, the user opens the **Buddies** section, where a collection of Buddy Cards is displayed.
+Starting from the Buddies section, the user can browse the available Buddy Cards and select one to view the corresponding Support Buddy’s profile.
 
-By tapping a Buddy Card, the user can access the corresponding Support Buddy's profile and consult the available information to decide whether that colleague is suitable for their needs.
+After reviewing the profile, the user can send a match request through the Submit Match Request button. Once the request has been submitted, the button changes to Cancel Request, allowing the user to withdraw it while waiting for the Support Buddy’s response.
 
-If the user wants to establish a match, they can tap **Submit Match Request**. After submitting the request, the user must wait for the Support Buddy to accept it.
+When the request is accepted, the match is established and a conversation becomes available in the Chat section.
 
-During this period, the button changes to **Cancel Request**, allowing the user to withdraw the pending request if they change their mind.
+This flow allows users to select a suitable colleague and establish a support relationship, while maintaining control over pending requests.
 
-Once the Support Buddy accepts the request, the match is established and a conversation becomes available in the **Chat** section.
+**Complex task: Get help from a colleague with a specific expertise when the assigned Support Buddy cannot resolve a problem.** 
 
-This workflow allows users to choose a suitable colleague, request support and establish a direct communication channel. The possibility of cancelling a pending request also provides greater control over the matching process.
+It is covered by the flow Chat → Message Request → Specialist Profile → Accept Request → Temporary Chat → Mark as Resolved (steps 24–31).
 
-**Complex task: Get help from a colleague with a specific expertise when the assigned Support Buddy cannot resolve a problem.**
+When the assigned Support Buddy cannot solve a problem, another colleague with specific expertise can be involved.
 
-The complex task involves the Smart Worker, the assigned Support Buddy and another colleague with the expertise needed to solve the problem.
+The Smart Worker receives a Message Request in the Chat section, above the conversation with the assigned Support Buddy. By opening it, the user can view the specialist’s profile and decide whether to accept or decline the request.
 
-When the assigned Support Buddy cannot provide a solution, they can involve another colleague who has more specific knowledge.
+If the request is accepted, a separate conversation with the specialist becomes available, while the original Support Buddy remains assigned to the Smart Worker.
 
-The Smart Worker receives a **Message Request**, displayed at the top of the Chat section, above the conversation with the assigned Support Buddy.
+Once the problem has been solved, the user can select Mark as Resolved and confirm the closure of the temporary conversation.
 
-By tapping the request, the user can view the profile of the colleague who wants to contact them. This person is not the assigned Support Buddy, but a specialist involved to provide additional assistance.
-
-The user can decide whether to accept or decline the request. If accepted, a separate conversation with the specialist becomes available, while the original Support Buddy remains assigned to the Smart Worker.
-
-Once the problem has been solved, the user can mark the temporary conversation as resolved and confirm its closure.
-
-This workflow allows the Smart Worker to receive specialized assistance without replacing the main Support Buddy, supporting collaboration between colleagues with different skills.
-
-### Additional features
-
-The Home page also includes a plant representing the collective growth of the team.
-
-Two dots below the jar indicate that the Home page contains a second panel. By swiping horizontally, the user can switch from the jar to the plant.
-
-The plant grows as the team contributes to resolving questions, providing a visual representation of shared knowledge and collaboration.
-
-Finally, the **Profile** section displays the user's main personal information.
-
-These features aim to encourage participation, make collaboration more visible and strengthen the sense of community among remote workers.
+This mechanism allows users to receive specialized assistance without replacing their main Support Buddy, encouraging collaboration between colleagues with different skills.
